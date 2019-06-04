@@ -91,7 +91,7 @@ canonifyURLs = true
 
   paragraph = ""
 
-  about     = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tellus lacus, auctor vehicula molestie quis, tempor quis velit. Quisque in quam ac leo efficitur vulputate. Phasellus ullamcorper aliquam sodales. Maecenas sit amet condimentum ipsum. Proin sit amet ligula elit. Mauris."
+  about     = "Energize Your Writing is a blog that aims to help writers who want to get better at their craft. We offer advice for creative writing, scriptwriting, and academic writing. Our goal is to become a place for people to get ideas, as well as share ideas they have learned in order to become better writers!"
 
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
