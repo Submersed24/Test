@@ -6,15 +6,17 @@
 body, html {
   height: 138%;
   margin: 0;
+  padding: 0;
   font-family: Arial, Helvetica, sans-serif;
 }
 
 .hero-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("themes/hugo-future-imperfect/images/EYWBanner.jpg");
+
+  position: relative;
+  overflow: hidden;
   height: 50%;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  background: url("{{ .Site.BaseURL }}/img/EYWBanner.jpg") no-repeat center  center cover;
+
   position: relative;
 }
 
@@ -53,8 +55,8 @@ body, html {
   <img src="{{ .Site.BaseURL }}/img/EYWBanner.jpg" />
   <div class="hero-text">
     <h1 style="font-size:50px"></h1>
-    <p></p>
-    <button>Read More</button>
+    <p>test</p>
+    <button onclick="/about/">Read More</button>
   </div>
 </div>
 

@@ -1,29 +1,25 @@
 +++
-title = "About Hugo"
-date = "2014-04-09"
+title = "About Us"
+date = "2019-05-22"
 +++
 
-Hugo is a static site engine written in Go.
+<b>__Energize Your Writing__ is a FREE, modern, and entertaining blog full of information on how you can improve as a writer.</b> <br>
 
+I created it to keep writers, like myself, up to date on the most valuable information and tips to become a better writer. This blog acts as a repository of writing methods, best practices, and
+techniques that can be used to persuade others and create intriguing stories. All of our posts are free to the public, and we hope to create discussions that lead to the improvement of your writing. <br>
 
-It makes use of a variety of open source projects including:
+Remember this:
+  <em>Writing is not something you are simply born with.</em> <br>
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+<b>It is a skill that is harvested through creative thinking and sharpened like an axe through technique.</b> <br>
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
+Most say that writing is difficult. But it isn't.<br>
+Well...<br>
+What makes it difficult is the _mindset_ you have when writing.<br>
 
-## Setup
+There's the famous, almighty destroyer of words <b>_writers block_</b> that everyone fears...<br>
+And it's honestly not too scary. Writing is simply the bridge we use to load information and emotions from one brain to the next. Our ancenstors created languages _hundreds of thousands_ of years ago.<br>
 
-Some fun facts about [Hugo](http://gohugo.io/):
-
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
-
-Thanks for reading!
+It's in your thoughts, your speech, your reality...<br>
+<b>It's a part of you.</b><br>
+So allow us to guide you back to your natural state of mind. <br>
